@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    background-color: black;
+
+
+
+}
+.nome{
+    color: white;
+    text-align: center;
+}
+#name{
+    background-color: aliceblue;
+    opacity: 0.5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.email{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+#e-mail{
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+.mensagem{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+#copy {
+    background-color: aliceblue;
+    opacity: 0.5; 
+}
+.butao{
+    text-align: center; 
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
