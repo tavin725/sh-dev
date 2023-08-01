@@ -3,10 +3,9 @@
 body{
   background-image: url(img/wepik-export-20230607141147PQvF.jpeg);
   background-repeat: no-repeat;
- background-size:cover;
+ 
  text-align: center;
- padding: 0;
-  margin: 0;
+ 
 }
  .galaxy {
     width: 100%;
